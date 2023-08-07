@@ -1,0 +1,2 @@
+FROM /Layerfile
+EXPOSE WEBSITE http://localhost:443
